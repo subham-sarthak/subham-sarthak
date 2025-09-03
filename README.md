@@ -3,7 +3,7 @@
 </p>
 
 ## 👨‍💻 About Me  
-- 🎓 2nd-year CSE student passionate about **DSA, AI/ML, and Web Development**  
+- 🎓 3rd-year CSE student passionate about **DSA, AI/ML, and Web Development**  
 - 💡 Exploring projects in **safety tech, federated learning, and automation**  
 - ⚡ Fun fact: I love solving problems that make life easier with tech  
 
